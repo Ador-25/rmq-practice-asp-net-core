@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "sMFFr98t2b4Tbb3eDl+FlpqXsIiFNVWpIEI7+Vp3Frk=",
-  "Source": "Rmq-Producer",
-  "BasePath": "_content/Rmq-Producer",
+  "Hash": "ZnBbjNZmCzwnAuaCA9yGR9r7Pjb++638sBDkHT+lgOE=",
+  "Source": "rmq-producer",
+  "BasePath": "_content/rmq-producer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

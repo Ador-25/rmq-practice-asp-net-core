@@ -6,14 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Rmq-Producer/1.0.0": {
+      "rmq-producer/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "RabbitMQ.Client": "6.6.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
-          "Rmq-Producer.dll": {}
+          "rmq-producer.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
@@ -95,7 +95,7 @@
     }
   },
   "libraries": {
-    "Rmq-Producer/1.0.0": {
+    "rmq-producer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
