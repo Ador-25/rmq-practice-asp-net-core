@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmq-Producer", "Rmq-Producer.csproj", "{9E879C20-7A94-4AFF-8033-8869321183E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rmq-Producer", "Rmq-Producer.csproj", "{9E879C20-7A94-4AFF-8033-8869321183E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rmq-Consumer", "..\Rmq-Consumer\Rmq-Consumer.csproj", "{BDA301D9-0DDD-420E-B4A1-8FF40C8A966A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9E879C20-7A94-4AFF-8033-8869321183E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E879C20-7A94-4AFF-8033-8869321183E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E879C20-7A94-4AFF-8033-8869321183E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA301D9-0DDD-420E-B4A1-8FF40C8A966A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA301D9-0DDD-420E-B4A1-8FF40C8A966A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA301D9-0DDD-420E-B4A1-8FF40C8A966A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA301D9-0DDD-420E-B4A1-8FF40C8A966A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

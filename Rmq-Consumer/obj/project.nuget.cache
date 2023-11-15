@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAWfEtAtVt4AdO4lIvKFpr2q2I+JjVnRsPINd2x+vaz2ydYbTOARyIuetoqBcPB7AAeC9WNTV4WkitctPc8J2Q==",
+  "success": true,
+  "projectFilePath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\Rmq-Consumer\\Rmq-Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
