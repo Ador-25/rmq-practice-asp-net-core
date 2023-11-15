@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\Rmq-Producer.csproj": {}
+    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\rmq-producer.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\Rmq-Producer.csproj": {
+    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\rmq-producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\Rmq-Producer.csproj",
-        "projectName": "Rmq-Producer",
-        "projectPath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\Rmq-Producer.csproj",
+        "projectUniqueName": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\rmq-producer.csproj",
+        "projectName": "rmq-producer",
+        "projectPath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\rmq-producer.csproj",
         "packagesPath": "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\",
         "outputPath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\obj\\",
         "projectStyle": "PackageReference",

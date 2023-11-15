@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6gQsNX4w1hfauHEZGSBIaQQC0eqLO0gYzG0yac6LSASU0bbnu4stdf0kn7hBJMZWWSXeg79FLCswbmd0j73uw==",
+  "dgSpecHash": "z0fRxi7ohpwTbIcExMpqF2UvU7gng/mh9U+xzb1KzyzuhznWRgfe9EhEdZXWXaooTjQpdfIML0g2JCt31Ftbcw==",
   "success": true,
-  "projectFilePath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\Rmq-Producer.csproj",
+  "projectFilePath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-producer\\rmq-producer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

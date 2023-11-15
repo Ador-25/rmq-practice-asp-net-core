@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Rmq_Consumer.Controllers
+namespace rmq_consumer.Controllers
 {
     [ApiController]
     [Route("[controller]")]

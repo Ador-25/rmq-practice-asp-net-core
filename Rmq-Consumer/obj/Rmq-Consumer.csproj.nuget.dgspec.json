@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\Rmq-Consumer\\Rmq-Consumer.csproj": {}
+    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-consumer\\rmq-consumer.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\Rmq-Consumer\\Rmq-Consumer.csproj": {
+    "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-consumer\\rmq-consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\Rmq-Consumer\\Rmq-Consumer.csproj",
-        "projectName": "Rmq-Consumer",
-        "projectPath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\Rmq-Consumer\\Rmq-Consumer.csproj",
+        "projectUniqueName": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-consumer\\rmq-consumer.csproj",
+        "projectName": "rmq-consumer",
+        "projectPath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-consumer\\rmq-consumer.csproj",
         "packagesPath": "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\Rmq-Consumer\\obj\\",
+        "outputPath": "D:\\Dotnet-Practice\\rmq-practice-asp-net-core\\rmq-consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abtaheefarhanador\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

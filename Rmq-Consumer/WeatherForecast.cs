@@ -1,4 +1,4 @@
-namespace Rmq_Consumer
+namespace rmq_consumer
 {
     public class WeatherForecast
     {
