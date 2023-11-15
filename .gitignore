@@ -6,6 +6,11 @@ appsettings.development.json
 # Ignore all files in the "Config" directory
 Config/
 
+# Visual Studio IDE
+*.vsix
+*.vsixmanifest
+
+
 
 
 # Visual Studio Code
